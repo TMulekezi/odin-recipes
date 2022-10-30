@@ -1,0 +1,22 @@
+/** css stylesheet **/
+body {
+    background-color: whitesmoke;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.image, .description, h1{
+   text-align: center;
+}
+
+.image {
+    height: auto;
+    width: 250px;
+}
+
+
+
+
+
